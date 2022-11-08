@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Socials:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/the_cybermania)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/nonickyet)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nonickyet&theme=dark&show_icons=true)
